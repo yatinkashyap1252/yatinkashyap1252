@@ -6,7 +6,6 @@
 - ⭐3 star coder in Java
 - ⭐3 star coder in C
 - ⭐3 star coder in Python
-- ⭐3 star coder in java
 <!---
 yatinkashyap1252/yatinkashyap1252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
