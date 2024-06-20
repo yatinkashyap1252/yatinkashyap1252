@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yatinkashyap1252
 - 👀 I’m interested to work as a frontend developer
-- 🌱 I’m currently learning java,python,html/css
+- 🌱 I’m currently learning java,python,html/css,React Js,SQL,Mongo-Db,
+- 🌱 I’m currently learning MERN Stack project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me-9924111787
 - ⭐3 star coder in Java
