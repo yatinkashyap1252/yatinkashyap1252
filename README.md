@@ -3,9 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatinkashyap1252&label=Profile%20views&color=0e75b6&style=flat" alt="yatinkashyap1252" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yatinkashyap1252" alt="yatinkashyap1252" /></a> </p>
+
+- 🔭 I’m currently working on [VidVault](https://github.com/yatinkashyap1252/VidVault)
+
+- 🌱 I’m currently learning **Python,AI,ML**
+
+- 🤝 I’m looking for help with [SafarGo](https://github.com/yatinkashyap1252/SafarGo)
+
+- 👨‍💻 All of my projects are available at [https://yatinkashyap1252.github.io/portfolio/](https://yatinkashyap1252.github.io/portfolio/)
+
 - 📫 How to reach me **yatinkashyap1252@gmail.com**
-- 👀 See my portfolio **https://yatinkashyap1252.github.io/portfolio/**
-- 🔗 [See My Resume](https://github.com/yatinkashyap1252/yatinkashyap1252/blob/main/220170107051_resume.pdf)
+
+- 📄 Know about my experiences [https://github.com/yatinkashyap1252/yatinkashyap1252/blob/main/220170107051_resume.pdf](https://github.com/yatinkashyap1252/yatinkashyap1252/blob/main/220170107051_resume.pdf)
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatinkashyap1252&show_icons=true&locale=en&layout=compact" alt="yatinkashyap1252" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatinkashyap1252&show_icons=true&locale=en" alt="yatinkashyap1252" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yatinkashyap1252&" alt="yatinkashyap1252" /></p>
