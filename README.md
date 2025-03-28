@@ -5,6 +5,7 @@
 
 - 📫 How to reach me **yatinkashyap1252@gmail.com**
 - 👀 See my portfolio **https://yatinkashyap1252.github.io/portfolio/**
+- [Download the resume](https://github.com/yatinkashyap1252/yatinkashyap1252/blob/main/220170107051_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
