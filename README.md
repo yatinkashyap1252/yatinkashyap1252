@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [SafarGo](https://github.com/yatinkashyap1252/SafarGo)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yatinkashyap1252.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-3d-k48k.onrender.com)
   
 - 🎨 All of my designs are available at [Figma Designs - Mobile](https://www.figma.com/design/73JPpPVwojBAeXIPZeAo57/mobile_project?node-id=0-1&t=1OZzfmXeVYzl5Mjm-1)
   
