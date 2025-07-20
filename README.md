@@ -21,6 +21,8 @@
 
 - 📫 How to reach me **yatinkashyap1252@gmail.com**
 
+- 🎮 Try My game - [Detective-killer](https://detective-killer-game.onrender.com)
+
 - 📄 Know about my experiences [https://github.com/yatinkashyap1252/yatinkashyap1252/blob/main/220170107051_resume.pdf](https://github.com/yatinkashyap1252/yatinkashyap1252/blob/main/220170107051_resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
